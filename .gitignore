@@ -36,3 +36,4 @@ cmake-build-debug/*
 cmake-build-release/*
 jenkinsBuild.20*
 *.o
+*.o
